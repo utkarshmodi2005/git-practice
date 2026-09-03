@@ -1,3 +1,4 @@
 Hello World
 This is second line
 Trying something new
+Line from master
