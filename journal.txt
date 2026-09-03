@@ -1,4 +1,5 @@
 Header changed on master branch
+Header changed on feature branch
 This is second line
 Trying something new
 Line from master
