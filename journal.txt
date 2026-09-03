@@ -1,4 +1,4 @@
-Hello World FROM MASTER BRANCH AND EXPERIMENT BRANCH
+Header changed on master branch
 This is second line
 Trying something new
 Line from master
